@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theyashodeep;
-- 👀 I’m interested in Software Development;
-- 🥳 I'm good in SQL Database;
-- 🌱 I’m currently learning core java;
+- 👀 I’m interested in DevOps Engineer role;
+- 🥳 I'm good in DevOps tools;
+- 🌱 I’m currently learning DevOps;
 - 📫 You can reach me via theyashodeep@gmail.com
 
 <!---
